@@ -1,0 +1,36 @@
+_repo: A-Little-Book-of-Western-Verse_9606
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Field, Roswell Martin
+    aliases:
+    - Field, Roswell M. (Roswell Martin)
+    - Field, R. M. (Roswell Martin)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '5268'
+    url: http://www.gutenberg.org/2009/agents/5268
+creator:
+  author:
+    agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: A Little Book of Western Verse
+url: http://www.gutenberg.org/ebooks/9606
