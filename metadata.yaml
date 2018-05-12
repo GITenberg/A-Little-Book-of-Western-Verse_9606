@@ -1,5 +1,5 @@
 _repo: A-Little-Book-of-Western-Verse_9606
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Field, Roswell Martin
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '5268'
     url: http://www.gutenberg.org/2009/agents/5268
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Field, Eugene
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/238
     wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9606#A-Little-Book-of-Western-Verse
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
